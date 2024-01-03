@@ -1,0 +1,5 @@
+CrazyLover - dokumentacja wstępna
+
+Poprzez wpisanie przez użytkownika imion lub dowolnych znaków w pola tekstowy losowany jest procent na ile są w sobie "zakochani".
+Po wyświetleniu procentów na dole wypisywany jest tekst w zależności od ilości od ilości procentów np. w przedziałach od 0%-10%, 20%-40%, 50%-70&, 80%-90% oraz 100%.
+Aplikacja będzie obsługiwała dwa pola tekstowe oraz wypisywała randomowy procent w przedziałach podanych powyżej.
